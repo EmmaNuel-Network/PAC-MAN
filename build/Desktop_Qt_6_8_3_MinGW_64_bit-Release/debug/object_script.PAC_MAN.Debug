@@ -1,0 +1,10 @@
+debug/fantasma.o
+debug/gamecontroller.o
+debug/jugador.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_recursos.o
+debug/moc_fantasma.o
+debug/moc_gamecontroller.o
+debug/moc_jugador.o
+debug/moc_mainwindow.o

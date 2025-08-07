@@ -1,0 +1,10 @@
+release/fantasma.o
+release/gamecontroller.o
+release/jugador.o
+release/main.o
+release/mainwindow.o
+release/qrc_recursos.o
+release/moc_fantasma.o
+release/moc_gamecontroller.o
+release/moc_jugador.o
+release/moc_mainwindow.o

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>sprites/laberinto.txt</file>
+    <file>sprites/laberinto_recortado.png</file>
+    <file>sprites/pacman_cerrado.png</file>
+    <file>sprites/pacman_abierto.png</file>
+    <file>sprites/fantasma.png</file>
+  </qresource>
+</RCC>
